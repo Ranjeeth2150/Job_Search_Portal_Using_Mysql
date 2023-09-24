@@ -90,7 +90,7 @@ POST Method :  http://localhost:8080/swagger-ui/index.html#/job-portal-controlle
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact : Dharmendra Singh Shekhawat  
+For questions or feedback, please contact : Jangam Ranjeeth
 - Maild Id : jangamr.jr@gmail.com
 
 <h1 align="center">Thank You...<h1>
